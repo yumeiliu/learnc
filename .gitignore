@@ -1,0 +1,8 @@
+#txt:
+*.txt~
+
+#C:
+*.cpp~
+
+#git:
+.gitignore~
